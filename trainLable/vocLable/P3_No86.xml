@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>P3人群识别</folder>
+<filename>P3_No86.jpg</filename>
+<path>C:\Users\sha\OneDrive - njtech.edu.cn\文档\Tencent Files\2397034982\FileRecv\2023年睿抗智能侦察省赛训练数据集\智能侦察数据集\P3人群识别\P3_No86.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1707</width>
+    <height>1280</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>blue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>40</xmin>
+        <ymin>595</ymin>
+        <xmax>271</xmax>
+        <ymax>1063</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>256</xmin>
+        <ymin>603</ymin>
+        <xmax>502</xmax>
+        <ymax>1068</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>blue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>484</xmin>
+        <ymin>552</ymin>
+        <xmax>784</xmax>
+        <ymax>1062</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>760</xmin>
+        <ymin>600</ymin>
+        <xmax>988</xmax>
+        <ymax>1053</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>black</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>950</xmin>
+        <ymin>551</ymin>
+        <xmax>1219</xmax>
+        <ymax>1088</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>blue</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1212</xmin>
+        <ymin>490</ymin>
+        <xmax>1440</xmax>
+        <ymax>1086</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1449</xmin>
+        <ymin>513</ymin>
+        <xmax>1707</xmax>
+        <ymax>1065</ymax>
+    </bndbox>
+</object>
+</annotation>

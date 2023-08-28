@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>P3人群识别</folder>
+<filename>P3_No167.jpg</filename>
+<path>C:\Users\sha\OneDrive - njtech.edu.cn\文档\Tencent Files\2397034982\FileRecv\2023年睿抗智能侦察省赛训练数据集\智能侦察数据集\P3人群识别\P3_No167.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1707</width>
+    <height>1280</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>130</xmin>
+        <ymin>403</ymin>
+        <xmax>487</xmax>
+        <ymax>1020</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>black</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>553</xmin>
+        <ymin>280</ymin>
+        <xmax>928</xmax>
+        <ymax>1029</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>red</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>949</xmin>
+        <ymin>397</ymin>
+        <xmax>1239</xmax>
+        <ymax>1011</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>black</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1266</xmin>
+        <ymin>307</ymin>
+        <xmax>1677</xmax>
+        <ymax>1059</ymax>
+    </bndbox>
+</object>
+</annotation>
